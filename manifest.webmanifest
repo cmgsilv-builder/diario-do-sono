@@ -1,0 +1,17 @@
+{
+  "name": "Diário do sono",
+  "short_name": "Sono",
+  "description": "Diário de sono do bebê: noites, despertares, sonecas e mamadas.",
+  "lang": "pt-BR",
+  "start_url": "./#now",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1220",
+  "theme_color": "#1d2340",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
